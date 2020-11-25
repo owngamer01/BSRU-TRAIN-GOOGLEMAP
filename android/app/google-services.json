@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766640163582",
+    "firebase_url": "https://quickstart-1593147473235.firebaseio.com",
+    "project_id": "quickstart-1593147473235",
+    "storage_bucket": "quickstart-1593147473235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766640163582:android:9d8f5388f86df15c15b3af",
+        "android_client_info": {
+          "package_name": "com.bsru.comsci.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766640163582-e91pn2r6rjmpcsnmb2s6lct3lje20g29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwh_Rkr5MXEOFO7nkZXU7Aa-XZERrS-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766640163582-e91pn2r6rjmpcsnmb2s6lct3lje20g29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
