@@ -11,7 +11,7 @@ A new Flutter project.
     - Copy your key and Press in lib/config 
     - Copy your key and Press in android/app/src/main/AndroidManifest.xml
 
-This project for training student
+This project for training only
 
 Thank.
 
